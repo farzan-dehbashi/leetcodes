@@ -6,6 +6,7 @@
 | ------- |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
 ## String
 |  |
 | ------- |
