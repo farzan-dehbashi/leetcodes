@@ -55,4 +55,8 @@
 |  |
 | ------- |
 | [0614-second-degree-follower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0614-second-degree-follower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0799-champagne-tower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0799-champagne-tower) |
 <!---LeetCode Topics End-->
