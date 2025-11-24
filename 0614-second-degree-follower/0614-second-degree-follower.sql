@@ -1,6 +1,4 @@
-# Write your MySQL query statement below
 select followee as follower, count(distinct follower) as num
 from Follow
-where followee in (select follower from Follow)
+where followee in(select follower from follow)
 group by followee
-order by followee
