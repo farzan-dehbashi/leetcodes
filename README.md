@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
+## Database
+|  |
+| ------- |
+| [0614-second-degree-follower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0614-second-degree-follower) |
 <!---LeetCode Topics End-->
