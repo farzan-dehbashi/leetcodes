@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
+| [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/farzan-dehbashi/leetcodes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -89,6 +90,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [2424-longest-uploaded-prefix](https://github.com/farzan-dehbashi/leetcodes/tree/master/2424-longest-uploaded-prefix) |
 ## Union Find
 |  |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/farzan-dehbashi/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
