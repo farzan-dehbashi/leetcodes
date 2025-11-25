@@ -21,12 +21,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
@@ -185,10 +187,12 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Prefix Sum
 |  |
