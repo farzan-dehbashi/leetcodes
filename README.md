@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
