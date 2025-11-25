@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/farzan-dehbashi/leetcodes/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/farzan-dehbashi/leetcodes/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sliding Window
 |  |
@@ -150,10 +151,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
