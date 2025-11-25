@@ -51,6 +51,7 @@
 | [0020-valid-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Sorting
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
+| [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 ## Tree
 |  |
 | ------- |
