@@ -50,6 +50,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/farzan-dehbashi/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/farzan-dehbashi/leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/farzan-dehbashi/leetcodes/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 ## Tree
 |  |
