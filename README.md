@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
@@ -103,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0799-champagne-tower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0799-champagne-tower) |
 ## Binary Search
 |  |
@@ -194,11 +196,13 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Prefix Sum
 |  |
