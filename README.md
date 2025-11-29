@@ -14,6 +14,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/farzan-dehbashi/leetcodes/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
+| [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/farzan-dehbashi/leetcodes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -36,11 +37,13 @@
 | [0286-walls-and-gates](https://github.com/farzan-dehbashi/leetcodes/tree/master/0286-walls-and-gates) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
+| [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0286-walls-and-gates](https://github.com/farzan-dehbashi/leetcodes/tree/master/0286-walls-and-gates) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
+| [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
