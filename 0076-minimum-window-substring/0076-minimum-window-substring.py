@@ -1,27 +1,23 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if not s or not t:
-            return ""
+            return ''
         
-        need, required, formed, window, l, min_len, start = collections.Counter(t), len(collections.Counter(t)), 0, collections.defaultdict(int), 0, float('inf'), 0
-        
+        need, need_len, found_len, w, l, min_len, start = collections.Counter(t), len(collections.Counter(t)), 0, collections.defaultdict(int), 0, float('inf'), float('inf')
+
         for r in range(len(s)):
-            char = s[r]
-            window[char] += 1
+            w[s[r]] += 1
+
+            if s[r] in need and need[s[r]] == w[s[r]]:
+                found_len += 1
             
-            if char in need and window[char] == need[char]:
-                formed += 1
-            
-            while l <= r and formed == required:
-                if r - l + 1 < min_len:
-                    min_len = r - l + 1
+            while l<=r and found_len == need_len:
+                if r-l+1 < min_len:
+                    min_len = r-l+1
                     start = l
                 
-                char = s[l]
-                window[char] -= 1
-                if char in need and window[char] < need[char]:
-                    formed -= 1
-                
+                w[s[l]] -= 1
+                if s[l] in need and need[s[l]] > w[s[l]]:
+                    found_len -= 1
                 l += 1
-        
-        return "" if min_len == float('inf') else s[start:start + min_len]
+        return '' if min_len == inf else s[start:start+min_len]
