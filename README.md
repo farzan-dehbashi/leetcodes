@@ -52,6 +52,7 @@
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/farzan-dehbashi/leetcodes/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/farzan-dehbashi/leetcodes/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -201,6 +203,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/farzan-dehbashi/leetcodes/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 ## Tree
 |  |
