@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0799-champagne-tower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0799-champagne-tower) |
 ## Binary Search
@@ -232,5 +234,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/farzan-dehbashi/leetcodes/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
