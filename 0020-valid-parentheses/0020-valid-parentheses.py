@@ -4,10 +4,10 @@ class Solution:
         for char in s:
             if not char in pars:
                 stack.append(char)
+                continue
+            elif not stack or not stack[-1] == pars[char]:
+                return False
             else:
-                if not stack or not stack[-1] == pars[char]:
-                    return False
                 stack.pop()
         return len(stack) == 0
-
 
