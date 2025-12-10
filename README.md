@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
