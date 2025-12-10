@@ -10,6 +10,7 @@
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/farzan-dehbashi/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
 | [0286-walls-and-gates](https://github.com/farzan-dehbashi/leetcodes/tree/master/0286-walls-and-gates) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/farzan-dehbashi/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0799-champagne-tower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0799-champagne-tower) |
 ## Binary Search
