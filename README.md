@@ -24,6 +24,7 @@
 | [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/farzan-dehbashi/leetcodes/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/farzan-dehbashi/leetcodes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/farzan-dehbashi/leetcodes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -238,4 +240,12 @@
 | ------- |
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/farzan-dehbashi/leetcodes/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/farzan-dehbashi/leetcodes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/farzan-dehbashi/leetcodes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
