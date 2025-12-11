@@ -78,6 +78,7 @@
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 | [0981-time-based-key-value-store](https://github.com/farzan-dehbashi/leetcodes/tree/master/0981-time-based-key-value-store) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Sorting
 |  |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
 |  |
 | ------- |
