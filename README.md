@@ -82,6 +82,7 @@
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/farzan-dehbashi/leetcodes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farzan-dehbashi/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0799-champagne-tower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0799-champagne-tower) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/farzan-dehbashi/leetcodes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/farzan-dehbashi/leetcodes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/farzan-dehbashi/leetcodes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Recursion
 |  |
