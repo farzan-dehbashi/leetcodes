@@ -77,6 +77,7 @@
 | [0076-minimum-window-substring](https://github.com/farzan-dehbashi/leetcodes/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/farzan-dehbashi/leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
+| [0408-valid-word-abbreviation](https://github.com/farzan-dehbashi/leetcodes/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 | [0981-time-based-key-value-store](https://github.com/farzan-dehbashi/leetcodes/tree/master/0981-time-based-key-value-store) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -222,6 +223,7 @@
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/farzan-dehbashi/leetcodes/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
+| [0408-valid-word-abbreviation](https://github.com/farzan-dehbashi/leetcodes/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 ## Tree
 |  |
