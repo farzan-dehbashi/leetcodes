@@ -164,6 +164,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/farzan-dehbashi/leetcodes/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/farzan-dehbashi/leetcodes/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/farzan-dehbashi/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
