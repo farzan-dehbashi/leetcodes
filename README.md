@@ -22,6 +22,7 @@
 | [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/farzan-dehbashi/leetcodes/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1539-kth-missing-positive-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/1539-kth-missing-positive-number) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -67,6 +68,7 @@
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0963-minimum-area-rectangle-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0963-minimum-area-rectangle-ii) |
 | [0981-time-based-key-value-store](https://github.com/farzan-dehbashi/leetcodes/tree/master/0981-time-based-key-value-store) |
+| [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
@@ -83,6 +85,7 @@
 | [0408-valid-word-abbreviation](https://github.com/farzan-dehbashi/leetcodes/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
 | [0981-time-based-key-value-store](https://github.com/farzan-dehbashi/leetcodes/tree/master/0981-time-based-key-value-store) |
+| [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -97,6 +100,7 @@
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Backtracking
@@ -131,6 +135,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farzan-dehbashi/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0799-champagne-tower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0799-champagne-tower) |
+| [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/farzan-dehbashi/leetcodes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Binary Search
 |  |
@@ -232,6 +237,7 @@
 | [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0408-valid-word-abbreviation](https://github.com/farzan-dehbashi/leetcodes/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
+| [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 ## Tree
 |  |
 | ------- |
