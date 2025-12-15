@@ -5,6 +5,6 @@ class Solution:
             if i > max_reach:
                 return False
             max_reach = max(max_reach, i + nums[i])
-            if max_reach >= len(nums) - 1:
-                return True
-        
+        if max_reach >= len(nums) - 1:
+            return True
+    
