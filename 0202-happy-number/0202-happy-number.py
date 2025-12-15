@@ -5,4 +5,4 @@ class Solution:
         while n != 1 and n not in seen:
             seen.add(n)
             n = sum(int(digit) ** 2 for digit in str(n))
-        return True if n == 1 else False
+        return n == 1
