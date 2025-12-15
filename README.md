@@ -48,6 +48,7 @@
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
+| [1197-minimum-knight-moves](https://github.com/farzan-dehbashi/leetcodes/tree/master/1197-minimum-knight-moves) |
 ## Matrix
 |  |
 | ------- |
