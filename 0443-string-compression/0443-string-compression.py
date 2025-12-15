@@ -1,17 +1,16 @@
 class Solution:
-    def compress(self, chars: List[str]) -> int:
-        if len(chars) == 0:
-            return 0
-        chars.append('*')
-        pre, count, res = chars[0], 1, []
-        for i, char in enumerate(chars[1:]):
-            if char == pre:
-                count += 1
-            else:
-                if count == 1:
-                    res.append(pre)
-                else:
-                    res = res + [pre] + list(str(count))
-                pre, count = char, 1
-        chars[:] = res
-        return len(res)
+    def compress(self, original: List[str]) -> int:
+        p = 0
+        res = []
+        while p < len(original):
+            num, cur = 0, original[p]
+
+            while p < len(original) and original[p] == cur:
+                num, p = num+1, p+1
+
+            res.append(cur)
+            if num > 1:
+                for char in str(num):
+                    res.append(char)
+        original[:] = res
+
