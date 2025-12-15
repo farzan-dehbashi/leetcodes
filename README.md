@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0875-koko-eating-bananas](https://github.com/farzan-dehbashi/leetcodes/tree/master/0875-koko-eating-bananas) |
+| [0939-minimum-area-rectangle](https://github.com/farzan-dehbashi/leetcodes/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0963-minimum-area-rectangle-ii) |
 | [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
@@ -67,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0939-minimum-area-rectangle](https://github.com/farzan-dehbashi/leetcodes/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0963-minimum-area-rectangle-ii) |
 | [0981-time-based-key-value-store](https://github.com/farzan-dehbashi/leetcodes/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
@@ -101,6 +103,7 @@
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0939-minimum-area-rectangle](https://github.com/farzan-dehbashi/leetcodes/tree/master/0939-minimum-area-rectangle) |
 | [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -202,6 +205,7 @@
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
+| [0939-minimum-area-rectangle](https://github.com/farzan-dehbashi/leetcodes/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0963-minimum-area-rectangle-ii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/farzan-dehbashi/leetcodes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/farzan-dehbashi/leetcodes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -283,5 +287,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0939-minimum-area-rectangle](https://github.com/farzan-dehbashi/leetcodes/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0963-minimum-area-rectangle-ii) |
 <!---LeetCode Topics End-->
