@@ -94,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
 | [0408-valid-word-abbreviation](https://github.com/farzan-dehbashi/leetcodes/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
+| [0772-basic-calculator-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0772-basic-calculator-iii) |
 | [0981-time-based-key-value-store](https://github.com/farzan-dehbashi/leetcodes/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/0020-valid-parentheses) |
+| [0772-basic-calculator-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0772-basic-calculator-iii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
 |  |
@@ -216,6 +218,7 @@
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
+| [0772-basic-calculator-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0772-basic-calculator-iii) |
 | [0939-minimum-area-rectangle](https://github.com/farzan-dehbashi/leetcodes/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0963-minimum-area-rectangle-ii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/farzan-dehbashi/leetcodes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -226,6 +229,7 @@
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/farzan-dehbashi/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
+| [0772-basic-calculator-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0772-basic-calculator-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
