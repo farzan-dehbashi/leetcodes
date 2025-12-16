@@ -23,6 +23,7 @@
 | [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/farzan-dehbashi/leetcodes/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1024-video-stitching](https://github.com/farzan-dehbashi/leetcodes/tree/master/1024-video-stitching) |
 | [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1539-kth-missing-positive-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/1539-kth-missing-positive-number) |
@@ -143,6 +144,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farzan-dehbashi/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0799-champagne-tower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0799-champagne-tower) |
+| [1024-video-stitching](https://github.com/farzan-dehbashi/leetcodes/tree/master/1024-video-stitching) |
 | [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/farzan-dehbashi/leetcodes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Binary Search
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
+| [1024-video-stitching](https://github.com/farzan-dehbashi/leetcodes/tree/master/1024-video-stitching) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/farzan-dehbashi/leetcodes/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Brainteaser
 |  |
