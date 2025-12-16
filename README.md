@@ -42,6 +42,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/farzan-dehbashi/leetcodes/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
 | [1197-minimum-knight-moves](https://github.com/farzan-dehbashi/leetcodes/tree/master/1197-minimum-knight-moves) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/farzan-dehbashi/leetcodes/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Matrix
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farzan-dehbashi/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/farzan-dehbashi/leetcodes/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
 | ------- |
