@@ -29,6 +29,7 @@
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/farzan-dehbashi/leetcodes/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/farzan-dehbashi/leetcodes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Depth-First Search
@@ -75,6 +76,7 @@
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2424-longest-uploaded-prefix](https://github.com/farzan-dehbashi/leetcodes/tree/master/2424-longest-uploaded-prefix) |
 ## String
 |  |
@@ -92,6 +94,7 @@
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/farzan-dehbashi/leetcodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/farzan-dehbashi/leetcodes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Sorting
 |  |
@@ -117,6 +120,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -284,6 +288,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0210-course-schedule-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Geometry
 |  |
 | ------- |
