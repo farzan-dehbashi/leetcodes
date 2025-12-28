@@ -44,6 +44,7 @@
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/farzan-dehbashi/leetcodes/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1462-course-schedule-iv](https://github.com/farzan-dehbashi/leetcodes/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
 | [1197-minimum-knight-moves](https://github.com/farzan-dehbashi/leetcodes/tree/master/1197-minimum-knight-moves) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/farzan-dehbashi/leetcodes/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1462-course-schedule-iv](https://github.com/farzan-dehbashi/leetcodes/tree/master/1462-course-schedule-iv) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/farzan-dehbashi/leetcodes/tree/master/0797-all-paths-from-source-to-target) |
+| [1462-course-schedule-iv](https://github.com/farzan-dehbashi/leetcodes/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
@@ -302,6 +305,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/farzan-dehbashi/leetcodes/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Geometry
 |  |
