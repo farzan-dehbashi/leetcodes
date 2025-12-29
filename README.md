@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/farzan-dehbashi/leetcodes/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/farzan-dehbashi/leetcodes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0056-merge-intervals) |
@@ -61,6 +62,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/farzan-dehbashi/leetcodes/tree/master/0048-rotate-image) |
 | [0286-walls-and-gates](https://github.com/farzan-dehbashi/leetcodes/tree/master/0286-walls-and-gates) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/farzan-dehbashi/leetcodes/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/farzan-dehbashi/leetcodes/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/farzan-dehbashi/leetcodes/tree/master/0342-power-of-four) |
 | [0772-basic-calculator-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/0772-basic-calculator-iii) |
