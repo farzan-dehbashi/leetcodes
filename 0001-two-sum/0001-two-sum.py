@@ -3,7 +3,7 @@ class Solution(object):
         seen = set()
         for i, num in enumerate(nums):
             if target - num in seen:
-                return nums.index(target-num), i
+                return [nums.index(target - num), i]
             seen.add(num)
         return False
         
