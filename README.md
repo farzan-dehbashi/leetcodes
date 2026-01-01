@@ -34,6 +34,7 @@
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/farzan-dehbashi/leetcodes/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/farzan-dehbashi/leetcodes/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -87,6 +88,7 @@
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/farzan-dehbashi/leetcodes/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2424-longest-uploaded-prefix](https://github.com/farzan-dehbashi/leetcodes/tree/master/2424-longest-uploaded-prefix) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/farzan-dehbashi/leetcodes/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
