@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farzan-dehbashi/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/farzan-dehbashi/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
 | [0286-walls-and-gates](https://github.com/farzan-dehbashi/leetcodes/tree/master/0286-walls-and-gates) |
@@ -163,6 +164,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/farzan-dehbashi/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/farzan-dehbashi/leetcodes/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/farzan-dehbashi/leetcodes/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
@@ -262,6 +264,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/farzan-dehbashi/leetcodes/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/farzan-dehbashi/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/farzan-dehbashi/leetcodes/tree/master/0202-happy-number) |
 | [0408-valid-word-abbreviation](https://github.com/farzan-dehbashi/leetcodes/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/farzan-dehbashi/leetcodes/tree/master/0443-string-compression) |
