@@ -20,6 +20,7 @@
 | [0286-walls-and-gates](https://github.com/farzan-dehbashi/leetcodes/tree/master/0286-walls-and-gates) |
 | [0346-moving-average-from-data-stream](https://github.com/farzan-dehbashi/leetcodes/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0435-non-overlapping-intervals) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0875-koko-eating-bananas](https://github.com/farzan-dehbashi/leetcodes/tree/master/0875-koko-eating-bananas) |
 | [0939-minimum-area-rectangle](https://github.com/farzan-dehbashi/leetcodes/tree/master/0939-minimum-area-rectangle) |
@@ -123,6 +124,7 @@
 | [0217-contains-duplicate](https://github.com/farzan-dehbashi/leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farzan-dehbashi/leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0435-non-overlapping-intervals) |
 | [0939-minimum-area-rectangle](https://github.com/farzan-dehbashi/leetcodes/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
@@ -162,6 +164,7 @@
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farzan-dehbashi/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0435-non-overlapping-intervals) |
 | [0799-champagne-tower](https://github.com/farzan-dehbashi/leetcodes/tree/master/0799-champagne-tower) |
 | [1024-video-stitching](https://github.com/farzan-dehbashi/leetcodes/tree/master/1024-video-stitching) |
 | [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
@@ -306,6 +309,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0435-non-overlapping-intervals) |
 | [1024-video-stitching](https://github.com/farzan-dehbashi/leetcodes/tree/master/1024-video-stitching) |
 | [2007-find-original-array-from-doubled-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/farzan-dehbashi/leetcodes/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
