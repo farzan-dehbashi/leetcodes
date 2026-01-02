@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/farzan-dehbashi/leetcodes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/farzan-dehbashi/leetcodes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/farzan-dehbashi/leetcodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/farzan-dehbashi/leetcodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0088-merge-sorted-array) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/farzan-dehbashi/leetcodes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/farzan-dehbashi/leetcodes/tree/master/0054-spiral-matrix) |
 | [0286-walls-and-gates](https://github.com/farzan-dehbashi/leetcodes/tree/master/0286-walls-and-gates) |
 | [0529-minesweeper](https://github.com/farzan-dehbashi/leetcodes/tree/master/0529-minesweeper) |
 | [0994-rotting-oranges](https://github.com/farzan-dehbashi/leetcodes/tree/master/0994-rotting-oranges) |
@@ -155,6 +157,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/farzan-dehbashi/leetcodes/tree/master/0054-spiral-matrix) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
 ## Database
 |  |
