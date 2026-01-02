@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/farzan-dehbashi/leetcodes/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/farzan-dehbashi/leetcodes/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/farzan-dehbashi/leetcodes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
@@ -69,6 +70,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/farzan-dehbashi/leetcodes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/farzan-dehbashi/leetcodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/farzan-dehbashi/leetcodes/tree/master/0054-spiral-matrix) |
 | [0286-walls-and-gates](https://github.com/farzan-dehbashi/leetcodes/tree/master/0286-walls-and-gates) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/farzan-dehbashi/leetcodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/farzan-dehbashi/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/farzan-dehbashi/leetcodes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/farzan-dehbashi/leetcodes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/farzan-dehbashi/leetcodes/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/farzan-dehbashi/leetcodes/tree/master/0146-lru-cache) |
