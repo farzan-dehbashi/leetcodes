@@ -2,6 +2,7 @@ class Solution:
     def spiralOrder(self, m: List[List[int]]) -> List[int]:
         res = []
 
+
         while m:
             res += m.pop(0)
             if m and m[0]:
