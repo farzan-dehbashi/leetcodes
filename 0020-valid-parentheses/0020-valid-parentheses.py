@@ -2,12 +2,11 @@ class Solution:
     def isValid(self, s: str) -> bool:
         pars, stack = {')':'(', '}':'{', ']':'['}, []
         for char in s:
-            if not char in pars:
+            if char not in pars:
                 stack.append(char)
-                continue
-            elif not stack or not stack[-1] == pars[char]:
-                return False
             else:
-                stack.pop()
+                if stack and stack[-1] == pars[char]:
+                    stack.pop()
+                else:
+                    return False
         return len(stack) == 0
-
