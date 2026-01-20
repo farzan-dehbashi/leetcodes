@@ -9,7 +9,7 @@ class Solution:
                 return []
             
             if num == 0:
-                if count[0] %2:
+                if count[0] %2==1:
                     return []
                 res += [0]* (int(count[0] / 2))
             else:
