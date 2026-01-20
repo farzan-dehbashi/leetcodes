@@ -1,11 +1,11 @@
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        newHead, cur = None, head
-        while cur:
-            tmp = cur.next
-            cur.next = newHead
-            newHead = cur
-            cur = tmp
-        return newHead
+        nh, t, c = None, None, head
+        while c:
+            t = c.next
+            c.next = nh
+            nh = c
+            c = t
+        return nh
     
         
