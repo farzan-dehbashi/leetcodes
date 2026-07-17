@@ -42,6 +42,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/farzan-dehbashi/leetcodes/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2402-meeting-rooms-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/2402-meeting-rooms-iii) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/farzan-dehbashi/leetcodes/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/farzan-dehbashi/leetcodes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Depth-First Search
@@ -99,6 +100,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/farzan-dehbashi/leetcodes/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2402-meeting-rooms-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/2402-meeting-rooms-iii) |
 | [2424-longest-uploaded-prefix](https://github.com/farzan-dehbashi/leetcodes/tree/master/2424-longest-uploaded-prefix) |
 ## String
 |  |
@@ -138,6 +140,7 @@
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2007-find-original-array-from-doubled-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/2007-find-original-array-from-doubled-array) |
+| [2402-meeting-rooms-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/2402-meeting-rooms-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,12 +159,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
+| [2402-meeting-rooms-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/2402-meeting-rooms-iii) |
 | [2424-longest-uploaded-prefix](https://github.com/farzan-dehbashi/leetcodes/tree/master/2424-longest-uploaded-prefix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/farzan-dehbashi/leetcodes/tree/master/0054-spiral-matrix) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
+| [2402-meeting-rooms-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/2402-meeting-rooms-iii) |
 ## Database
 |  |
 | ------- |
