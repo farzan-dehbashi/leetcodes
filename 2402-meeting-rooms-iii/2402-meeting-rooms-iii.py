@@ -3,29 +3,27 @@ import heapq
 class Solution:
     def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
         meetings.sort()
-        free_rooms = list(range(n))
-        heapq.heapify(free_rooms)
-        busy_rooms = []
-        room_usage = defaultdict(int)
-        for start, end in meetings:
-            while busy_rooms and busy_rooms[0][0] <= start:
-                _, room = heapq.heappop(busy_rooms)
-                heapq.heappush(free_rooms, room)
-            
-            if free_rooms:
-                room = heapq.heappop(free_rooms)
-                room_usage[room] += 1
-                heapq.heappush(busy_rooms, (end, room))
+        empty_rooms, full_rooms, usage = list(range(n)), [], defaultdict(int)
+        heapq.heapify(empty_rooms)
 
+        for s, e in meetings:
+            while full_rooms and full_rooms[0][0] <= s:
+                _, room = heapq.heappop(full_rooms)
+                heapq.heappush(empty_rooms, room)
+            
+            if empty_rooms:
+                room = heapq.heappop(empty_rooms)
+                usage[room] += 1
+                heapq.heappush(full_rooms,  (e, room))
             else:
-                earliest_end, room = heapq.heappop(busy_rooms)
-                room_usage[room] += 1
-                wait = earliest_end - start
-                heapq.heappush(busy_rooms, (end+wait, room))
+                earliest_end, room =heapq.heappop(full_rooms)
+                usage[room] += 1
+                wait_time = earliest_end - s
+                heapq.heappush(full_rooms, (wait_time+e, room))
         
         max_used = max_room = -1
         for room in range(n):
-            if room_usage[room] > max_used:
-                max_used = room_usage[room]
+            if usage[room] > max_used:
+                max_used = usage[room]
                 max_room = room
         return max_room
