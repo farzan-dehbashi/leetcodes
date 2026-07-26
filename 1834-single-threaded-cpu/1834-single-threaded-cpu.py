@@ -1,7 +1,7 @@
 class Solution:
     def getOrder(self, tasks: list[list[int]]) -> list[int]:
         indexed_tasks = [(task[0], task[1], i) for i, task in enumerate(tasks)]
-        indexed_tasks.sort(key=lambda x: x[0])
+        indexed_tasks.sort()
         result = []
         min_heap = []
         curr_time = 0
