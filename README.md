@@ -39,6 +39,7 @@
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1711-count-good-meals](https://github.com/farzan-dehbashi/leetcodes/tree/master/1711-count-good-meals) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
+| [1834-single-threaded-cpu](https://github.com/farzan-dehbashi/leetcodes/tree/master/1834-single-threaded-cpu) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/farzan-dehbashi/leetcodes/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/farzan-dehbashi/leetcodes/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -139,6 +140,7 @@
 | [1048-longest-string-chain](https://github.com/farzan-dehbashi/leetcodes/tree/master/1048-longest-string-chain) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farzan-dehbashi/leetcodes/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/farzan-dehbashi/leetcodes/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1834-single-threaded-cpu](https://github.com/farzan-dehbashi/leetcodes/tree/master/1834-single-threaded-cpu) |
 | [2007-find-original-array-from-doubled-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2402-meeting-rooms-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/2402-meeting-rooms-iii) |
 ## Backtracking
@@ -159,6 +161,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/farzan-dehbashi/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/farzan-dehbashi/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/farzan-dehbashi/leetcodes/tree/master/1801-number-of-orders-in-the-backlog) |
+| [1834-single-threaded-cpu](https://github.com/farzan-dehbashi/leetcodes/tree/master/1834-single-threaded-cpu) |
 | [2402-meeting-rooms-iii](https://github.com/farzan-dehbashi/leetcodes/tree/master/2402-meeting-rooms-iii) |
 | [2424-longest-uploaded-prefix](https://github.com/farzan-dehbashi/leetcodes/tree/master/2424-longest-uploaded-prefix) |
 ## Simulation
